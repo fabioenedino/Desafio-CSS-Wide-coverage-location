@@ -6,7 +6,7 @@
 }
 
 header {
-    margin-top: 15 px;
+    margin-top: 15px;
     margin-left: 42px;
  }
 
@@ -26,13 +26,13 @@ header {
     border: 1px solid #4cB538;
     cursor: pointer;
     width: 124px;
-    height: 51px;
+    height: 31px;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 1px;
     color: #FFFFFF;
-    border-radius: 8px;
+    border-radius: 12px;
 }    
     
 
