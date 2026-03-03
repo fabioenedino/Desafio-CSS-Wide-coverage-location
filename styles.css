@@ -27,19 +27,23 @@ header {
     background: #6FBF44;
     border: 1px solid #4cB538;
     cursor: pointer;
+<<<<<<< HEAD
     width: 114px;
+=======
+    width: 124px;
+>>>>>>> 2599a9d45c1914d759ab044535ed3311e414f73b
     height: 41px;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 1px;
     color: #FFFFFF;
-    border-radius: 8px;
+    border-radius: 6px;
 }    
     
-
+  
 img {
-    margin: 120px 0px 0px 123px;
+    margin: 120px 0px 0px 121px;
     display: inline-block;
 }
 
@@ -75,3 +79,50 @@ p {
     color: #6FBF44;
     cursor: pointer; 
 }
+<<<<<<< HEAD
+=======
+
+@media screen and (max-width: 1300px) {
+    header :not(.button-sign-up){
+        display:none;      
+}
+
+.button-sign-up {
+    width: 91px;
+    height: 31px;
+    margin:0px 30px 2px 450px ; 
+}
+
+img {
+    order: 2;
+    margin: 500px 10px 5px 20px;
+    display: block;
+    position: absolute;
+    padding: 6%;
+    width: 600px;
+
+}
+
+
+h1 {
+    line-height: 50px;
+    font-size: 50px;
+    order: 1;
+    margin: 40px auto;
+    display: block;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    line-height: 45px;
+}
+
+.button-learn-more {
+   font-size: 25px; 
+   margin: 0px auto;
+   display: block;
+}
+
+}
+>>>>>>> 2599a9d45c1914d759ab044535ed3311e414f73b
